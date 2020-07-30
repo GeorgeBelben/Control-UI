@@ -1,8 +1,6 @@
 <h1 align="center">Control UI</h1>
 
-<div align="center">
-
-A professional design system and React component library
+<div align="center">A professional design system and React component library</div>
 
 ## ✨ Features
 
