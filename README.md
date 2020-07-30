@@ -38,3 +38,39 @@ const App = () => (
 
 
 ## ✔ Coming Soon
+* Button
+* TextInput
+* SearchInput
+* SelectInput
+* RadioInput
+* CheckboxInput
+* DropdownInput
+* Breadcrumb
+* Icons
+* Typography
+* Toggle
+* Avatar
+* EmptyState
+* List
+* Statistic
+* Tabs
+* Table
+* Alert
+* Modal
+* Drawer
+* Message
+* LoadingIndicator
+* Placeholder
+* Notification
+* Progress
+* Result
+* Spacer
+* Menu
+* Pagination
+* SectionHeader
+* Card
+
+## 🕑 Change Log
+
+You can view the change log [Here](/CHANGELOG.md)
+
