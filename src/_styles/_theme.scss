@@ -1,0 +1,15 @@
+body:not(.🎛️-dark) {
+  --theme-primary: #00A0D2;
+  --theme-primary--dark: #0097C7;
+  --background-color-0: #ffffff;
+}
+
+body.🎛️-dark {
+  --theme-primary: #00A0D2;
+  --theme-primary--dark: #0097C7;
+  --background-color-0: #32383C;
+}
+
+body {
+  background-color: var(--background-color-0);
+}

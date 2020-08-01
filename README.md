@@ -15,10 +15,6 @@
 npm install control-ui
 ```
 
-```bash
-yarn add control-ui
-```
-
 ## 🔨 Usage
 
 ```jsx
@@ -26,7 +22,7 @@ import { Button, TextInput } from 'control-ui';
 
 const App = () => (
   <>
-    <Button type="primary">Click Me!</Button>
+    <Button buttonType="primary">Click Me!</Button>
     <TextInput placeholder="Email Address" type="email" />
   </>
 );
